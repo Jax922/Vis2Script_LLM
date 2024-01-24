@@ -1,0 +1,29 @@
+
+Data Background: "This dataset reflects the annual rainfall in the fictional city of Rainville from 2000 to 2020. Rainville is known for its unpredictable weather patterns. The city experienced its driest year in 2005 with only 500mm of rain, while 2010 was the wettest year with 2500mm."
+
+Dataset:
+Year,Rainfall (mm)
+2000,1200
+2001,1100
+2002,1150
+2003,1300
+2004,1250
+2005,500
+2006,1000
+2007,1500
+2008,1800
+2009,2000
+2010,2500
+2011,2200
+2012,2100
+2013,2000
+2014,1900
+2015,1700
+2016,1600
+2017,1400
+2018,1500
+2019,1550
+2020,1600
+
+Script:
+"Let's delve into the hydrological story of Rainville, charting its annual rainfall from 2000 to 2020. Our graph's x-axis shows a timeline marked by fluctuations, mirroring Rainville's varied climatic moods. The notable low in 2005, with a mere 500mm, contrasts starkly with the deluge of 2010, where rainfall reached a record 2500mm. This ebb and flow of precipitation reflect Rainville's unique weather patterns, offering us insights into its climatic trends over two decades."

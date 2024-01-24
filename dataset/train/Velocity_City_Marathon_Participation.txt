@@ -1,0 +1,28 @@
+
+Data Background: "This fictional dataset tracks the annual participation in a city marathon event, 'Runners' Challenge', in 'Velocity City' from 2005 to 2020. The marathon, attracting both amateur and professional runners, saw fluctuating participation numbers, with a record turnout in 2012."
+
+Dataset:
+Year,Participants
+2005,1000
+2006,1100
+2007,1200
+2008,1300
+2009,1400
+2010,1500
+2011,1600
+2012,2000
+2013,1800
+2014,1700
+2015,1600
+2016,1500
+2017,1400
+2018,1300
+2019,1200
+2020,800
+
+Script:
+"Today, we're analyzing the participant trends of the 'Runners' Challenge', a highly anticipated marathon event in 'Velocity City', from 2005 to 2020. The x-axis of our chart paints a vivid picture of the marathon's allure over the years.
+
+Starting in 2005 with 1,000 participants, the event steadily grew in popularity, drawing increasing numbers of running enthusiasts. 2012 was a landmark year, witnessing a record 2,000 runners, a testament to the event's growing prestige and the city's vibrant running community.
+
+However, there's a noticeable dip in participation from 2013 onwards, with 2020 seeing a significant decrease, likely influenced by external factors. This data not only chronicles the history of the marathon but also reflects the impact of societal and global events on sports and community activities."

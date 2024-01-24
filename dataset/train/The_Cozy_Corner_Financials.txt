@@ -1,0 +1,28 @@
+
+Data Background: "This fictional dataset depicts the annual revenue and expenses of a cafe, 'The Cozy Corner', from 2005 to 2020. The cafe, located in the heart of the city, saw fluctuating financials due to changing market trends and consumer preferences. Notably, in 2015, the cafe underwent a major renovation, which significantly increased its expenses."
+
+Dataset:
+Year,Revenue (in $),Expenses (in $)
+2005,100000,50000
+2006,110000,55000
+2007,115000,60000
+2008,120000,65000
+2009,125000,70000
+2010,130000,75000
+2011,135000,80000
+2012,140000,85000
+2013,145000,90000
+2014,150000,95000
+2015,155000,120000
+2016,160000,125000
+2017,165000,130000
+2018,170000,135000
+2019,175000,140000
+2020,180000,145000
+
+Script:
+"Today, we step into 'The Cozy Corner', a beloved city cafe, to explore its financial journey from 2005 to 2020. The chart in front of us, with the x-axis representing the years, unfolds a story of resilience and adaptation. Starting in 2005, the cafe enjoyed a steady growth in revenue, reaching $180,000 by 2020. However, the road was not without its challenges. 
+
+In 2015, we see a dramatic spike in expenses, attributed to a significant renovation, which redefined the cafe's ambiance. This investment, while increasing the expenses to $120,000, set the stage for future growth and customer satisfaction. 
+
+Post-renovation, both revenue and expenses climbed steadily, a reflection of the cafe's enhanced appeal and operational costs. This graph is a testament to 'The Cozy Corner's' enduring popularity and its ability to adapt and thrive in an ever-evolving market."

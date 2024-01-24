@@ -1,0 +1,23 @@
+
+Data Background: "This fictional dataset depicts the weekly viewership numbers for a popular TV show, 'Star Quest', on a streaming platform from its premiere in 2015 to its finale in 2020. The show gained a massive following, with viewership peaking during its third season in 2017."
+
+Dataset:
+Year,Viewership (Millions)
+2015,2
+2015.5,2.5
+2016,3
+2016.5,4
+2017,5
+2017.5,7
+2018,6
+2018.5,5
+2019,4
+2019.5,3
+2020,3.5
+
+Script:
+"Today, we dive into the captivating world of 'Star Quest', a TV series that took viewers on an interstellar adventure from 2015 to 2020. The graph in front of us, with its x-axis representing the years, reflects the show's pulsating viewership journey.
+
+In 2015, 'Star Quest' debuted to an audience of 2 million, capturing imaginations with its novel storyline. The following year saw a steady climb in viewers, but it was in 2017, during its sensational third season, that viewership skyrocketed to 7 million. This peak coincides with critically acclaimed story arcs that resonated deeply with the audience.
+
+Post-2017, while viewership gradually waned, the show maintained a loyal fanbase until its grand finale in 2020. This viewership graph not only tells us about the popularity of 'Star Quest' but also illustrates the ebb and flow of audience engagement in the streaming era."

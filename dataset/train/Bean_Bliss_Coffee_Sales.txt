@@ -1,0 +1,38 @@
+
+Data Background: "This fictional dataset represents the monthly coffee sales of 'Bean Bliss', a popular cafe in the downtown area of 'Brewtown', from 2010 to 2020. Known for its artisanal blends, 'Bean Bliss' experienced a steady increase in sales, peaking during winter months. A notable drop in sales was observed in 2020."
+
+Dataset:
+Year-Month,Sales (in $ thousands)
+2010-01,20
+2010-02,22
+2010-03,24
+2010-04,23
+2010-05,25
+2010-06,27
+2010-07,26
+2010-08,28
+2010-09,30
+2010-10,32
+2010-11,35
+2010-12,40
+...
+2019-12,60
+2020-01,58
+2020-02,56
+2020-03,30
+2020-04,25
+2020-05,20
+2020-06,22
+2020-07,24
+2020-08,26
+2020-09,28
+2020-10,30
+2020-11,32
+2020-12,34
+
+Script:
+"Let's savor the flavor of success with 'Bean Bliss', as we peruse their monthly coffee sales from 2010 to 2020. Our graph showcases the sales trajectory in 'Brewtown's' favorite cafe, revealing consumer preferences and trends.
+
+The early years show a cozy pattern of sales peaking in the colder months, a time when a warm cup of coffee becomes a daily necessity. December consistently marked the highest sales, reaching up to $60,000 in 2019, indicating 'Bean Bliss's' prominence in the local coffee scene.
+
+However, 2020 brought an unexpected turn, with sales dipping significantly, particularly during the months typically known for high demand. This shift illustrates the impact of external factors on local businesses and consumer behavior, painting a broader picture of adaptation and resilience in the face of challenges."

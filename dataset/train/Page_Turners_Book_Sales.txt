@@ -1,0 +1,43 @@
+
+Data Background: "This fictional dataset illustrates the yearly book sales of a publishing house, 'Page Turners', from 1990 to 2020. Starting modestly in 1990, 'Page Turners' gradually became a major name in the literary world. A significant spike in sales is observed in 2007, coinciding with the release of a best-selling novel."
+
+Dataset:
+Year,Book Sales (in thousands)
+1990,50
+1991,55
+1992,60
+1993,65
+1994,70
+1995,75
+1996,80
+1997,85
+1998,90
+1999,95
+2000,100
+2001,110
+2002,120
+2003,130
+2004,140
+2005,150
+2006,160
+2007,500
+2008,180
+2009,190
+2010,200
+2011,210
+2012,220
+2013,230
+2014,240
+2015,250
+2016,260
+2017,270
+2018,280
+2019,290
+2020,300
+
+Script:
+"As we unfold the story of 'Page Turners', a renowned publishing house, from 1990 to 2020, we witness a narrative of growth and success. The x-axis, marking the years, shows a steady climb in book sales, reflecting the publisher's rising prominence. 
+
+The year 2007 stands as a landmark moment, with sales soaring to 500,000 copies, thanks to a globally acclaimed novel that captured readers' imaginations. This spike represents not just commercial success, but the cultural impact of literature that resonates with a wide audience.
+
+Post-2007, 'Page Turners' maintained its strong position in the literary market, with consistent sales growth. This journey, charted on our graph, is a celebration of literary excellence and the enduring power of books in the digital age."

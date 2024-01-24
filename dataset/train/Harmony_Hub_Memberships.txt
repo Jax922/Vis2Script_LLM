@@ -1,0 +1,28 @@
+
+Data Background: "This fictional dataset shows the annual number of new memberships at a community center, 'Harmony Hub', from 2005 to 2020. Harmony Hub, known for its diverse programs and inclusive environment, experienced a steady increase in membership, with a notable surge in 2015 following the introduction of new wellness programs."
+
+Dataset:
+Year,New Memberships
+2005,150
+2006,200
+2007,250
+2008,300
+2009,350
+2010,400
+2011,450
+2012,500
+2013,550
+2014,600
+2015,1000
+2016,950
+2017,900
+2018,850
+2019,800
+2020,750
+
+Script:
+"Let's turn our attention to 'Harmony Hub', a community center that has become a cornerstone of local engagement from 2005 to 2020. The x-axis of our graph chronicles the growth in new memberships year by year, illustrating the center's expanding impact in the community.
+
+Starting with 150 new members in 2005, Harmony Hub saw a gradual increase, reflecting its growing reputation as a hub for wellness and community activities. 2015 marks a pivotal year with an unprecedented jump to 1,000 new members, coinciding with the launch of innovative wellness programs that resonated with the community's needs.
+
+Although there's a slight decrease in new memberships post-2015, the numbers remain significantly higher than in the previous decade, underscoring Harmony Hub's sustained appeal and its role in fostering community spirit and wellness."

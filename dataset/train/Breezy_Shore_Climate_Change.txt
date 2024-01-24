@@ -1,0 +1,33 @@
+
+Data Background: "This fictional dataset captures the monthly average temperature (in Celsius) of a coastal city, 'Breezy Shore', from 2000 to 2020. Known for its mild climate, 'Breezy Shore' experienced a gradual increase in temperatures over the years, reflecting broader climatic changes. The year 2015 recorded the highest average temperature, indicating a notable shift in the city's climate pattern."
+
+Dataset:
+Year,Average Temperature (Celsius)
+2000,15
+2001,15.2
+2002,15.4
+2003,15.6
+2004,15.8
+2005,16
+2006,16.2
+2007,16.4
+2008,16.6
+2009,16.8
+2010,17
+2011,17.5
+2012,18
+2013,18.5
+2014,19
+2015,20
+2016,19.5
+2017,19
+2018,18.5
+2019,18
+2020,17.5
+
+Script:
+"Join us as we explore the evolving climate of 'Breezy Shore', a city known for its gentle weather, from 2000 to 2020. The graph before us, with the x-axis representing the years, illustrates a gradual warming trend in the city's average temperatures. 
+
+Starting at a comfortable 15°C in 2000, we observe a steady increase each year, culminating in a significant peak of 20°C in 2015. This year stands as a stark reminder of the changing climate and its impact on coastal cities like 'Breezy Shore'. 
+
+Post-2015, while the temperatures slightly recede, they remain higher than the two-decade average, suggesting a lasting shift in the city's climatic conditions. This graph not only charts temperatures but also narrates a story of environmental change and its palpable impact on local weather patterns."

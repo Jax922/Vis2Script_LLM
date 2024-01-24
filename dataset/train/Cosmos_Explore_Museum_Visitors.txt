@@ -1,0 +1,33 @@
+
+Data Background: "This fictional dataset captures the annual visitor attendance at a science museum, 'Cosmos Explore', from 2000 to 2020. The museum, known for its interactive exhibits and educational programs, saw a steady increase in attendance, peaking in 2012 with the launch of a groundbreaking space exhibit."
+
+Dataset:
+Year,Visitors (in thousands)
+2000,50
+2001,55
+2002,60
+2003,65
+2004,70
+2005,75
+2006,80
+2007,85
+2008,90
+2009,95
+2010,100
+2011,105
+2012,150
+2013,120
+2014,115
+2015,110
+2016,105
+2017,100
+2018,95
+2019,90
+2020,85
+
+Script:
+"Today, we embark on an exploratory journey through the visitor attendance data of 'Cosmos Explore', a renowned science museum, from 2000 to 2020. The graph, with its x-axis spanning two decades, tells a story of curiosity and discovery.
+
+In the early 2000s, the museum saw a gradual increase in visitors, reflecting its growing reputation as a center for scientific learning. The year 2012 stands out prominently, with a record 150,000 visitors, coinciding with the launch of an innovative space exhibit that captured the public's imagination.
+
+Post-2012, while the numbers slightly receded, the museum continued to attract a steady stream of visitors, eager to delve into the wonders of science. This graph not only represents numbers but also echoes the museum's role in inspiring generations of learners and explorers."
