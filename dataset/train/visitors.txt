@@ -1,0 +1,33 @@
+Data Background: "This dataset represents the yearly visitor count to the fictional national park, Greenwoods, from 1995 to 2020. Greenwoods, known for its lush forests and diverse wildlife, saw fluctuating visitor numbers due to varying factors like weather conditions and economic trends. Starting with 100,000 visitors in 1995, the park experienced its peak in 2010 with 500,000 visitors before witnessing a decline due to a major renovation."
+
+Dataset:
+“Year,Visitors
+1995,100000
+1996,110000
+1997,120000
+1998,115000
+1999,130000
+2000,125000
+2001,140000
+2002,135000
+2003,150000
+2004,145000
+2005,160000
+2006,155000
+2007,170000
+2008,165000
+2009,180000
+2010,500000
+2011,180000
+2012,175000
+2013,160000
+2014,150000
+2015,140000
+2016,130000
+2017,120000
+2018,110000
+2019,100000
+2020,90000”
+
+Script: "Let's embark on a scenic journey through Greenwoods National Park's visitor trends from 1995 to 2020. As we traverse the timeline on the x-axis, we notice an intriguing pattern of visitor numbers. The park, with its captivating natural beauty, initially saw a steady rise in visitors, reaching a plateau in the early 2000s.
+However, 2010 marks a year of extraordinary popularity, with a record half a million visitors, likely spurred by the park's centennial celebrations. Post-2010, the numbers take a dip, aligning with the park's closure for extensive renovations. By 2020, the visitor count stabilizes, reflecting Greenwoods' enduring appeal despite the ebb and flow of external factors. This graph is a window into the park's journey, mirroring the interplay of nature's allure and human engagement."

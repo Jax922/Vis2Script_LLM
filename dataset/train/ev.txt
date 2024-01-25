@@ -1,0 +1,29 @@
+
+Data Background: "This dataset tracks the annual production of electric vehicles (EVs) in a fictional country, Electroland, from 2000 to 2020. The country, known for its innovation in green technology, began its journey into EV production with 5,000 units in 2000. Over the years, as technology advanced and demand increased, production saw a significant rise, reaching 200,000 units by 2020."
+
+Dataset:
+"Year,EV Production
+2000,5000
+2001,7000
+2002,10000
+2003,15000
+2004,20000
+2005,25000
+2006,32000
+2007,40000
+2008,48000
+2009,56000
+2010,65000
+2011,75000
+2012,90000
+2013,110000
+2014,130000
+2015,150000
+2016,170000
+2017,180000
+2018,190000
+2019,195000
+2020,200000"
+
+Script:"Today, we're diving into the success story of Electroland's journey in electric vehicle production from 2000 to 2020. The graph before us on the x-axis represents two decades of innovation and growth. Starting in 2000, with a modest production of 5,000 EVs, we witness a steady increase, reflecting the country's commitment to sustainable transportation.
+As we move through the years, each increment along the x-axis tells a story of technological advancements and a growing market for EVs. By 2020, the production peaks at an impressive 200,000 units, showcasing Electroland's pioneering role in the green revolution. This graph is not just a display of numbers but a narrative of a country's vision turning into a global reality."

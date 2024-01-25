@@ -1,0 +1,57 @@
+Data Background: "The data on solar photovoltaic module prices from 1975 to 2022 shows a significant decline, indicating major advancements in solar technology. Starting at $125.83 per unit in 1975, prices steadily decreased due to technological improvements and larger-scale production. By 2022, the cost dramatically dropped to just $0.25 per unit, highlighting solar power's evolution from a niche, expensive option to a highly affordable and sustainable energy source."
+
+Dataset:
+"Year,Solar photovoltaic module price
+1975,125.83
+1976,94.67
+1977,69.07
+1978,48.86
+1979,41.06
+1980,34.79
+1981,27.82
+1982,24.99
+1983,20.17
+1984,18.75
+1985,16.36
+1986,13.54
+1987,11.51
+1988,10.75
+1989,11.11
+1990,11.49
+1991,10.64
+1992,9.91
+1993,9.27
+1994,8.77
+1995,8.11
+1996,7.58
+1997,7.55
+1998,6.81
+1999,6.29
+2000,6.17
+2001,5.97
+2002,5.46
+2003,5.19
+2004,4.34
+2005,4.39
+2006,4.79
+2007,4.82
+2008,4.39
+2009,2.93
+2010,2.31
+2011,1.89
+2012,1.02
+2013,0.78
+2014,0.72
+2015,0.67
+2016,0.62
+2017,0.52
+2018,0.46
+2019,0.42
+2020,0.33
+2021,0.26
+2022,0.25"
+
+Script:"Today, we will explore the fascinating journey of solar technology through the lens of its economic accessibility. Let's begin by directing our attention to the x-axis of our chart, which represents the years from 1975 to 2022. As we travel along this timeline, we notice a significant trend in the price of solar photovoltaic modules.
+In 1975, the cost per unit was a substantial $125.83, reflecting the early stages of solar technology, when it was more of an exclusive, costly option. As we progress through the years, a consistent and remarkable decline in prices becomes evident. This decline symbolizes not just advancements in technology but also the transition to larger-scale production, making solar energy more accessible.
+By the late 2000s, we observe a steep drop in prices, with 2009 marking a notable decrease to $2.93 per unit. This period was pivotal as it indicated a shift towards mainstream adoption of solar energy. And as we reach 2022, the price astonishingly falls to just $0.25 per unit, highlighting how solar power has evolved from a niche market to a highly affordable and sustainable energy solution.
+This dramatic reduction in prices over nearly five decades is a testament to human ingenuity and the relentless pursuit of sustainable energy solutions. It showcases the potential for further advancements and the increasing role of solar power in our quest for clean, renewable energy sources."
